@@ -1,2 +1,11 @@
-# Python Practice - CodePath_TIP101(Technical Interview Prep)
-#practicing problems and tracking my progress!!
+# CodePath_TIP101(Technical Interview Prep)
+## Goals 
+ - Becoming more proficient in python and tracking my progress!! :)
+ - Getting familiar with DSA
+ - building my problem solving skills
+ - acing technical interviews 
+
+## Tools Used: 
+ - PyCharm
+ - HackerRank
+ - CodePath TIP course materials 
