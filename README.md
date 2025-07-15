@@ -1,4 +1,4 @@
-# CodePath_TIP101(Technical Interview Prep)
+# CodePath_TIP101
 ## Goals 
  - Becoming more proficient in python and tracking my progress!! :)
  - Getting familiar with DSA
